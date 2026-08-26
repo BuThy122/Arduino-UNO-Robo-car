@@ -44,6 +44,7 @@ The car can be controlled wirelessly using a mobile device and supports movement
 
 ## Project Cost
 
+Store RoboCaze
 | # | Component | Price (₹) |
 |---|---|---:|
 | 1 | Arduino Uno | ₹209 |
@@ -134,6 +135,13 @@ The car can be controlled using compatible Bluetooth controller applications, su
 1. Arduino Bluetooth Control
 2. Arduino Car
 3. Bluetooth RC Controller
+
+---
+## Software Requirements
+
+### Arduino IDE to upload code
+
+The project can be programmed using the **Arduino IDE** with the ESP32 board package installed.
 
 ---
 
